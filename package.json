@@ -1,0 +1,24 @@
+{
+  "name": "wako",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemailer": "^4.6.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gastonci/wako.git"
+  },
+  "author": "Gaston Galante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gastonci/wako/issues"
+  },
+  "homepage": "https://github.com/gastonci/wako#readme"
+}
